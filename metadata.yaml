@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31982'
     url: http://www.gutenberg.org/2009/agents/31982
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37485#Boy-Scouts-in-Glacier-ParkThe-Adventures-of-Two-Young-Easterners-in-the-Heart-of-the-High-Roc_
 gutenberg_issued: '2011-09-20'
 gutenberg_type: Text
 identifiers:
