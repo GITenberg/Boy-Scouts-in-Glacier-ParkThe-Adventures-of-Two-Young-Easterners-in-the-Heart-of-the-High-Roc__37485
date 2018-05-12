@@ -1,0 +1,34 @@
+_repo: Boy-Scouts-in-Glacier-ParkThe-Adventures-of-Two-Young-Easterners-in-the-Heart-of-the-High-Roc__37485
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kiser, Fred H.
+    gutenberg_agent_id: '38868'
+    url: http://www.gutenberg.org/2009/agents/38868
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eaton, Walter Prichard
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '31982'
+    url: http://www.gutenberg.org/2009/agents/31982
+description: ''
+gutenberg_issued: '2011-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcsh 'Glacier National Park (Mont.) -- Juvenile fiction'
+title: 'Boy Scouts in Glacier Park
+
+  The Adventures of Two Young Easterners in the Heart of the High Rockies'
+url: http://www.gutenberg.org/ebooks/37485
